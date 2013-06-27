@@ -1,0 +1,18 @@
+Data in these sets has been provided by Tyne & Wear Integrated Transport Authority (TWITA):
+
+It is licensed under: Creative Commons Attribution Unported 3.0 [CC BY 3.0]
+
+Information about this license can be found here:
+http://creativecommons.org/licenses/by/3.0/
+
+The following is an additional requirement for the use of this data:
+
+Attribution must be made to Tyne & Wear Integrated Transport Authority (TWITA).
+This should include a link to http://www.twita.gov.uk/, presented in the following format:
+
+---
+This [product/service] has been created with data provided by Tyne & Wear Integrated Transport Authority [http://www.twita.gov.uk/].
+It is neither supported by, nor endorsed by TWITA; and TWITA does not accept any liability for the use of, misuse of, or inaccuracies in the data.
+---
+
+Please contact TWITA, asking for an 'Open Data Officer' if you need clarification on license terms.

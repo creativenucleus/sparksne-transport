@@ -1,6 +1,0 @@
-casualties - should be fairly self explanatory (this information is freely available online, but crucially, not in an 'open' format as yet so this is the first time it's been released in this way).
-
-
-Addendum:
-
-Unfortunately we do not collect information on the name of the road that the collision occurred on – the closest we can get to this is the location description that is filled in by the reporting police officer, but this is not a field that we (or the DfT) disclose to the public.  Also, as a road name can change multiple times along its length, whilst still keeping the same road number, we cannot do a lookup to match a number to a name on this occasion.

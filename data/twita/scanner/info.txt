@@ -1,0 +1,16 @@
+* The ‘Principal Scanner’ and ‘Classified Scanner’ spreadsheets:
+
+Contain road condition data by ‘section’ with a CI (condition index – the higher the figure the worse the condition) by cross sectional position (XSP).
+ 
+Single Carriageway Roads XSP ;
+ 
+CL1 and CR1 - left lane 1 and right lane 1 - nearest kerbside
+CL2 and CR2 - left lane 2 and right lane 2 - nearest centre line (only exist if road has more than one lane in each direction)
+ 
+Dual Carriageways (incl slip roads)
+ 
+CL1 and CL2 - left lane 1 / left lane 2.
+ 
+
+
+* The ‘Classified Network’ spreadsheet contains the start and end points for the ‘sections’.
